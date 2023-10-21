@@ -4,6 +4,7 @@ $ mkdir DHA_Pendulum
 CMakeLists.txt：CMake用のファイルです。（フォルダー”DHA_Pendulum”の中に移す）
 DHA_Pendulum.c：この倒立振子用のCファイルです。（フォルダー”DHA_Pendulum”の中に移す）
 DHA_Pendulum.pdf：この倒立振子の回路図です。
+DHA_Pendulum.uf2：実行可能ファイルです。Pico内に転送して利用します。
 _CMakeLists.txt：CMake用のファイルです。CMakeLists.txtをフォルダー”DHA_Pendulum”に移した後に、CMakeLists.txtとリネームする
 README.md:このファイルです。
 
